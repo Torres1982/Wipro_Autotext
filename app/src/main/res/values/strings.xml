@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Autotext</string>
+    <string name="web_link">http://www.wipro.com</string>
+    <string name="phone">+353873869273</string>
+    <string name="email">AR20068603@wipro.com</string>
+    <string name="location">Show My Location on Map</string>
+</resources>
